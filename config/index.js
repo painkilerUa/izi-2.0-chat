@@ -3,9 +3,9 @@ module.exports = {
     file_log_name: 'utils/report.log',
     debug: true,
     db_host: 'localhost',
-    db_name: 'bitrix_tracker',
+    db_name: 'izi',
     db_user: 'root',
-    db_port: '3307',
-    db_password: 'timeismoney',
+    db_port: '3310',
+    db_password: 'developer',
     db_dialect: 'mysql'
 }

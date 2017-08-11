@@ -21,9 +21,11 @@ class SocketHendler {
     }
     start(){
         let users = [];
-        this.socketIo.on('connection', (socket) => {
+        this.socketIo.on('connection', (socket) => {``
             console.log('New connection ', socket.id );
 
+            socket.on('chatMessage', require('./chatMessageHandler')(socket, this.socketIo));
+            socket.on('join to room', require('./roomHandler')(socket))
 
             socket.on('disconnect', () => {
                 console.log('user disconnected');

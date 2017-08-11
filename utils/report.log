@@ -1,1 +1,69 @@
 {"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-02T07:51:13.414Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T07:19:29.391Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T07:20:06.357Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T07:20:58.392Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T07:52:43.072Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T07:53:20.051Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T07:53:47.734Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T07:55:27.534Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T08:13:59.930Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T08:28:51.448Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T08:30:07.325Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T08:31:13.300Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T08:31:21.276Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T08:31:42.908Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T08:32:26.310Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T08:38:38.541Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T08:38:45.211Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T08:40:39.325Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T08:43:26.030Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T09:02:11.059Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T09:58:58.100Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T10:49:01.679Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T10:50:41.083Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T10:59:05.157Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T12:41:25.151Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T13:32:33.443Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-09T14:23:04.030Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T10:27:24.614Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T10:29:11.057Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T10:31:29.746Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T10:43:57.257Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T10:51:51.952Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeValidationError: notNull Violation: request_id cannot be null","timestamp":"2017-08-10T10:52:41.220Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T10:53:27.863Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeValidationError: notNull Violation: request_id cannot be null","timestamp":"2017-08-10T10:53:46.255Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T10:54:06.991Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeValidationError: notNull Violation: request_id cannot be null","timestamp":"2017-08-10T10:54:50.150Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T10:54:57.810Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeValidationError: notNull Violation: request_id cannot be null","timestamp":"2017-08-10T10:55:05.895Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T10:55:43.661Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeValidationError: notNull Violation: request_id cannot be null","timestamp":"2017-08-10T10:56:41.356Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T10:56:47.022Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeDatabaseError: Unknown column 'private_user_id' in 'field list'","timestamp":"2017-08-10T10:57:00.135Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T10:59:34.814Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeDatabaseError: Unknown column 'private_user_id' in 'field list'","timestamp":"2017-08-10T10:59:41.441Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:07:55.806Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeDatabaseError: Unknown column 'private_user_id' in 'field list'","timestamp":"2017-08-10T11:08:00.305Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:08:19.447Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:12:33.321Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:12:43.479Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeDatabaseError: Unknown column 'private_user_id' in 'field list'","timestamp":"2017-08-10T11:12:49.155Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:13:06.401Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeDatabaseError: Unknown column 'private_user_id' in 'field list'","timestamp":"2017-08-10T11:13:18.144Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:18:08.792Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeDatabaseError: Unknown column 'private_user_id' in 'field list'","timestamp":"2017-08-10T11:18:22.406Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:18:35.873Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeDatabaseError: Unknown column 'private_user_id' in 'field list'","timestamp":"2017-08-10T11:19:16.746Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:20:04.923Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeDatabaseError: Unknown column 'private_user_id' in 'field list'","timestamp":"2017-08-10T11:20:07.550Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:23:57.986Z"}
+{"level":"info","message":"Error on chatMessageHandler function SequelizeDatabaseError: Unknown column 'created_at' in 'field list'","timestamp":"2017-08-10T11:24:11.481Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:26:39.867Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:27:31.612Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:28:41.713Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:29:09.422Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T11:36:38.640Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T13:02:41.810Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T13:53:29.031Z"}
+{"level":"info","message":"Server is running on port 3302...","timestamp":"2017-08-10T14:49:37.302Z"}
