@@ -14,7 +14,7 @@ module.exports = (socket, socketIo) => {
             // accepterId: this.accepterId
 
 
-        models.ChatBan.findAll({
+        models.Canban.findAll({
             attributes: ['id'],
             where: {
                 chat_id: data.roomId,
